@@ -1,0 +1,10 @@
+<resources>
+
+    <!---..............................MainActivity............................................-->
+    <string name="app_name">App Bán Hàng LNK</string>
+    <string name="new_product_text_view">Sản phẩm mới nhất </string>
+    <string name="view_flipper">200dp</string>
+    <string name="new_product_margin">5dp</string>
+    <string name="new_product_size">20dp</string>
+    <string name="title_activity_information_app">Map</string>
+</resources>
